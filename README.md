@@ -1,16 +1,9 @@
 # payment_gateway_exam
 
-A new Flutter project.
+결제 대행 서비스(pg) 이용을 위한 프로젝트
+Fluttter에서 지원하는 라이브러리를 모두 사용해볼 계획이다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. tosspayment
+2. bootpay
+3. iamport
+4. portone
